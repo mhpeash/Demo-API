@@ -1,0 +1,12 @@
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\System.Data.SqlServerCe.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+Z:\Topic Demo Testing\APIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
